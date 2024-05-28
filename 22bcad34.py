@@ -1,5 +1,5 @@
 
-print ("this is for pratical ")
+print ("this is for pratical 2024 ")
 a=10
 b=5
 print(a+b,"is the output for a +b")
